@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessmelo
 - 👀 I’m interested in programming stuff
-- 📓 I study computer information systems in university of são paulo
+- 📓 I study computer information systems at university of são paulo
 - 🌱 I’m currently learning android development and similarity measures in ontologies
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: @jessmelo on telegram
