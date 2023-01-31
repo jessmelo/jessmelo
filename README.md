@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jessmelo
-- 👀 I’m interested in programming stuff
-- 📓 I study computer information systems at university of são paulo
-- 🌱 I’m currently learning android development and similarity measures in ontologies
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: @jessmelo on telegram
-
+- 👩🏻‍💻 I am a software developer mainly focused on android development
+- 📓 I studied computer information systems at university of são paulo
+- 🌎 Currently in São Paulo, Brazil
 <!---
 jessmelo/jessmelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
