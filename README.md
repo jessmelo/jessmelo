@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jessmelo
-- 👩🏻‍💻 I am a software developer mainly focused on android development (currently studying jetpack compose and mvvm architecture)
+- 👩🏻‍💻 I am a software developer mainly focused on android development 
+  - currently studying jetpack compose and mvvm architecture
 - 📓 I studied computer information systems at university of são paulo
 - 🌎 Currently living in São Paulo, Brazil
 <!---
