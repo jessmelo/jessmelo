@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jessmelo
-- 📓 I'm graduated in computer information systems at university of são paulo
+- 📓 I graduated in Computer Information Systems at University of São Paulo
 - 👩🏻‍💻 I am a software engineer, my main languages are:
   - java, kotlin, python, javascript, typescript, html, css
-- 📎 These are the technologies that i'm focused on learning atm:
-  - react, next.js, express, playwright testing
+- 📎 These are the technologies that I'm more focused on atm:
+  - react, next.js, express, playwright e2e testing
 - 🌎 Currently living in São Paulo, Brazil - From Recife, Brazil
 
 
