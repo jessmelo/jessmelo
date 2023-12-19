@@ -2,7 +2,7 @@
 - 📓 I'm graduated in computer information systems at university of são paulo
 - 👩🏻‍💻 I am a software engineer, my main languages are:
   - java, kotlin, python, javascript, typescript, html, css
-- 📎 These are the technologies that i'm focused on learning rn:
+- 📎 These are the technologies that i'm focused on learning atm:
   - react, next.js, express, playwright testing
 - 🌎 Currently living in São Paulo, Brazil - From Recife, Brazil
 
