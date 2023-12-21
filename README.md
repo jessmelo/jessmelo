@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I am a software engineer, my main languages are:
   - java, kotlin, python, javascript, typescript, html, css
 - 📎 These are the technologies that I'm more focused on atm:
-  - react, next.js, express, playwright e2e testing
+  - react, next.js, express, playwright e2e testing, tailwind css
 - 🌎 Currently living in São Paulo, Brazil - From Recife, Brazil
 
 
