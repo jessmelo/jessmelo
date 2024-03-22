@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jessmelo
+- 👋 Hi, my name is Jess Melo!
 - 📓 I have a Bachelor's degree in Computer Information Systems (University of São Paulo - Graduating class of 2022)
 - 👩🏻‍💻 I am a software engineer, I like to solve problems no matter the stack, my main languages are:
-  - java, kotlin, python, javascript, typescript, html, css
+  - java, kotlin, python, javascript, typescript, html & css
 - 📎 These are the technologies that I'm more focused on atm:
   - express, react, vercel, playwright testing, unit tests with jest, restful api (currently working in a start up using these technologies on a daily basis)
   - spring boot, advanced java (studying on my free time)
